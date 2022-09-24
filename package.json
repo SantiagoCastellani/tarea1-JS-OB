@@ -1,0 +1,15 @@
+{
+  "name": "tarea1-js-ob",
+  "version": "1.0.0",
+  "description": "tarea1",
+  "main": "index.js",
+  "scripts": {
+    "mensaje":"node mensaje.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "holamundo"
+  ],
+  "author": "sc",
+  "license": "ISC"
+}
